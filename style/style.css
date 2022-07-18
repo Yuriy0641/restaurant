@@ -518,8 +518,9 @@ body {
 }
 
 .footer_bg {
-  width: 1440px;
-  height: 732px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   padding-bottom: 100px;
 }
 
