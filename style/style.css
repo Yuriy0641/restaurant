@@ -518,15 +518,10 @@ body {
 }
 
 .footer_bg {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 100px;
-}
-
-.footer_img {
-  display: block;
-  max-width: 1440px;
+  width: 1300px;
+  height: auto;
+  padding-top: 100px;
+  padding-bottom: 150px;
 }
 
 .footer {
