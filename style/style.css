@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-  background-image: url(/images/bg.png);
+  background-image: url(/restaurant/images/bg.png);
   height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -263,7 +263,7 @@ body {
 }
 
 .black__block {
-  background-image: url(/images/black_bg.png);
+  background-image: url(/restaurant/images/black_bg.png);
   padding: 80px 0px;
 }
 .left__title {
@@ -330,7 +330,7 @@ body {
 }
 
 .menu {
-  background-image: url(/images/menu_bg.png);
+  background-image: url(/restaurant/images/menu_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 150px;
@@ -491,7 +491,7 @@ body {
 }
 
 .footer__bg {
-  background-image: url(/images/footer_bg.png);
+  background-image: url(/restaurant/images/footer_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 732px;
